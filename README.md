@@ -1,7 +1,7 @@
 # daleparr.github.io
-Data Scienct
+#Data Scienct
 
-eduction
+##Eduction
 
 work experience
 
